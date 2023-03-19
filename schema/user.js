@@ -6,6 +6,6 @@
     email:String,
     hashpassword:String
  })
-
+ 
 
  module.exports=mongoose.model("User",User)
